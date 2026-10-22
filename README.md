@@ -1,5 +1,5 @@
 # 📊 Customer Churn, Retention & Revenue Impact Analysis
-> **End-to-end Data Analytics project for identifying customer churn drivers, quantifying revenue at risk, and generating data-driven retention strategies.**
+End-to-end Data Analytics project for identifying customer churn drivers, quantifying revenue at risk, and generating data-driven retention strategies.
 
 ## 🚀 Project Overview
 
