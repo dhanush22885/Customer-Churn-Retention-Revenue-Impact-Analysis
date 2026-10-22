@@ -3,7 +3,7 @@ End-to-end Data Analytics project for identifying customer churn drivers, quanti
 
 ## 🚀 Project Overview
 
-**ChurnLens** is an end-to-end customer churn analytics project built to transform raw customer, subscription, and support data into actionable business insights.
+ChurnLens is an end-to-end customer churn analytics project built to transform raw customer, subscription, and support data into actionable business insights.
 
 The project analyzes an OTT subscription business to answer three critical business questions:
 
